@@ -28,4 +28,4 @@ This project provides a comprehensive analysis of the Android app market by exam
 3. Run the notebook to reproduce the analysis and explore the visualizations.
 
 ## Contact
-For any questions or suggestions, please reach out to [Your Contact Information].
+For any questions or suggestions, please reach out to ashkanpirastehfar@gmail.com.
